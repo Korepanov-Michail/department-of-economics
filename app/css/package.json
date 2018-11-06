@@ -1,0 +1,25 @@
+{
+  "name": "projectless",
+  "version": "1.0.0",
+  "description": "my less project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ia",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^7.1.6",
+    "browser-sync": "^2.18.13",
+    "cssnano": "^3.10.0",
+    "gulp": "^3.9.1",
+    "gulp-group-css-media-queries": "^1.2.0",
+    "gulp-less": "^3.3.2",
+    "gulp-postcss": "^7.0.0",
+    "gulp-util": "^3.0.8",
+    "postcss-font-magician": "^2.1.0"
+  },
+  "dependencies": {
+    "smart-grid": "^1.1.0"
+  }
+}
