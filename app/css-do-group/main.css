@@ -21,13 +21,20 @@ body {
   clear: both;
 }
 .wraper {
-  background-color: #ff9;
+  background-color: #fff;
   max-width: 1920px;
   margin: 0 auto;
 }
 .head {
   margin-left: -8px;
   margin-right: -4px;
+}
+.head h4 {
+  font: 14px/14px Myriad Pro Regular, Regular;
+  color: #000;
+  margin-left: 44px;
+  margin-top: 46px;
+  float: left;
 }
 .mobile_menu {
   float: left;
@@ -888,6 +895,15 @@ tr:nth-child(2) {
   padding-right: 11%;
   padding-bottom: 511px;
   background-color: #fff;
+}
+.footer h4 {
+  color: #676767;
+  font: 28px/28px Myriad Pro Regular, Regular;
+  border-color: #c2c2c2;
+  border-bottom-style: solid;
+  border-width: 0px;
+  list-style-type: none;
+  margin-top: 33px;
 }
 .footer ul {
   list-style-type: none;
